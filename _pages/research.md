@@ -25,7 +25,11 @@ A
   </div>
 </div>
 
-<div class="dropdown">
+
+<div class="container">
+  <h2>Dropdowns</h2>
+  <p>The .divider class is used to separate links inside the dropdown menu with a thin horizontal line:</p>
+  <div class="dropdown">
     <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Tutorials
     <span class="caret"></span></button>
     <ul class="dropdown-menu">
@@ -35,4 +39,5 @@ A
       <li class="divider"></li>
       <li><a href="#">About Us</a></li>
     </ul>
+  </div>
 </div>
