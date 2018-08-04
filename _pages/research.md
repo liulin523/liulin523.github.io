@@ -15,6 +15,5 @@ The overarching goals of our studies are
   <li class="nav-item">
    <a class="nav-link" href="{{ site.url }}{{ site.baseurl}}/greenland">Greenland</a>
   </li>
-  </li>
 </ul>
 
