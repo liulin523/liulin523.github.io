@@ -15,10 +15,6 @@ The overarching goals of our studies are
   <li class="nav-item">
    <a class="nav-link" href="{{ site.url }}{{ site.baseurl}}/greenland">Greenland</a>
   </li>
-   <div class="dropdown-menu">
-   <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl}}/greenland">Greenland</a>
-   <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl}}/frozenground">Frozen Ground</a>
-   </div>
   </li>
 </ul>
 
