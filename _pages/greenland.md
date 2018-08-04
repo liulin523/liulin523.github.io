@@ -5,6 +5,7 @@ excerpt: "Cryosphere Lab -- Research -- Greenland"
 sitemap: false
 permalink: /greenland/
 ---
+# Research on Greenland
 
 **Terminus variations of Greenland glaciers**
 
