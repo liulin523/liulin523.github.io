@@ -1,9 +1,9 @@
 ---
-title: "Cryosphere Lab - Research"
+title: "Cryosphere Lab - Research - Frozen Ground"
 layout: textlay
 excerpt: "Cryosphere Lab -- Research"
 sitemap: false
-permalink: /research/
+permalink: /frozenground/
 ---
 
 # Research on Frozen Ground
