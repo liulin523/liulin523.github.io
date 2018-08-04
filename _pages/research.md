@@ -19,8 +19,8 @@ A
     Dropdown button
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-   <a class="dropdown-item" href="#">Action</a>
-   <a class="dropdown-item" href="#">Another action</a>
+   <a class="dropdown-item" href="#">Home</a>
+   <a class="dropdown-item" href="#">Photos</a>
    <a class="dropdown-item" href="#">Something else here</a>
   </div>
 </div>
@@ -31,7 +31,7 @@ A
    <span class="caret"></span>
    </button>
    <ul class="dropdown-menu"> 
-   <li><a href="#">HTML</a></li>
+   <li><a href="#">Team</a></li>
    <li><a href="#">CSS</a></li>
    <li><a href="#">JavaScript</a></li>
    <li class="divider"></li>
