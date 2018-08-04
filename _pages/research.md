@@ -19,26 +19,22 @@ A
     Dropdown button
   </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
+   <a class="dropdown-item" href="#">Action</a>
+   <a class="dropdown-item" href="#">Another action</a>
+   <a class="dropdown-item" href="#">Something else here</a>
   </div>
 </div>
 
 
-<div class="container">
-  <h2>Dropdowns</h2>
-  <p>Test</p>
-  <div class="dropdown"> 
+<div class="dropdown"> 
    <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Tutorials
    <span class="caret"></span>
    </button>
-   <ul class="dropdown-menu">
-    <li><a href="#">HTML</a></li>
-    <li><a href="#">CSS</a></li>
-    <li><a href="#">JavaScript</a></li>
-    <li class="divider"></li>
-    <li><a href="#">About Us</a></li>
+   <ul class="dropdown-menu"> 
+   <li><a href="#">HTML</a></li>
+   <li><a href="#">CSS</a></li>
+   <li><a href="#">JavaScript</a></li>
+   <li class="divider"></li>
+   <li><a href="#">About Us</a></li>
    </ul>
-  </div>
 </div>
