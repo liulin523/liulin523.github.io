@@ -1,62 +1,158 @@
 ---
-title: "Cryosphere Lab - Publications"
-layout: gridlay
-excerpt: "Cryosphere Lab -- Publications."
-sitemap: false
 permalink: /publications/
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /pubs/
+  - /pubs.html
 ---
 
+You can search for my publications here or see them at [my Google scholar](https://scholar.google.com/citations?user=UjMP-jIAAAAJ&hl=en), [my DBLP](https://dblp.uni-trier.de/pers/hd/d/Dang=Nguyen:Duc=Tien) or [my Scopus](https://www.scopus.com/authid/detail.uri?authorId=54792686300). 
 
-# Publications
-For a full list see [below](#list-of-publications) or go to [Google Scholar](https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en)
+<html>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="../assets/js/bibtex_js.js" type="text/javascript" charset="utf-8"></script>
+    <bibtex src="../assets/publications.bib"></bibtex>
+    
+    <script>
+		$(function() {
+		  $("#Fontselector").on("change",function() {
+		    var font = $("#Fontselector option:selected").text();
+		    console.log(font);
+		
+		    $('.title.fonters').each(function() {
+		    	$(this).css("font-family",font);
+		    });
+		  }); 
+		});
+		function reset() {
+			$("select").each(function () {
+			  localStorage.setItem($(this).attr("id"),"");
+			  $(this).val("");
+			}); 
+			$("#searchbar").val("");
+			$("#searchbar").trigger('change');
+		}
+    </script>
+    
+        
+    <style>
+	    html,body,span,h1 {
+	    	font-family: "Times New Roman", Times, serif;
+	    	font-size: 17px;
+	    }
+	    bibtex { display: none; }
+	    .searchbar { margin-left:0px;}
+	    #bibtex_errors { margin-top:10px; color: red;}
+	    h1.header {margin-left:8px;}
+	    h1.YEAR { font-size: 17px; font-weight: bold; display: inline; margin-left:8px;}
+    </style>
+    
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
-## Highlights
 
-{% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if publi.highlight == 1 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
-  <p>{{ publi.description }}</p>
-  <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ publi.news2 }}</p>
- </div>
+<div class="container-fluid">
+	<div class="searchbar">
+		<div style="float:left;">
+			<select id="authorselectfirst" class="btn bibtex_search bibtex_author" style="border: 1px solid lightgrey;" extra="first" search="author">
+			  <option value="">Search First Author</option>
+			</select>
+		</div>
+		<div style="float:left;">
+			<select id="authorselect" class="btn bibtex_search bibtex_author" style="border: 1px solid lightgrey;" search="author">
+			  <option value="">Search Author</option>
+			</select>
+		</div>
+		<div style="float:left;">
+			<select id="topicselect" class="btn
+							bibtex_search"
+				style="border: 1px solid lightgrey;" search="topic">
+			  <option value="">Search Topic</option>
+			  <!-- Add topic values here -->
+			  <option value="test1">Test1</option>
+			  <option value="test2">Test2</option>
+			  <option value="Autonomy">Autonomy</option>
+			  <option value="Symbiotic">Symbiotic Autonomy</option>
+			  <option value="CoBot|Episodic|Service|Insights|Model-Instance|Diverse">CoBot</option>
+			  <option value="Learning">Learning</option>
+			  <option value="Multiagent">Multiagent Systems</option>
+			  <option value="Multi-robot|Multirobot|soccer|Multiagent">Multirobot Systems</option>
+			  <option value="Planning">Planning</option>
+			  <option value="Robot">Autonomous Robots</option>
+			  <option value="Localization">Robot Localization</option>
+			  <option value="Soccer|Multi-robot">Robot Soccer</option>
+			  <option value="Vision">Vision</option>
+			</select>
+		</div>
+		<br/><br/>
+		<div style="float:left;">
+			<button type="button" class="btn bibtex_search" onclick="reset()">Reset</button>
+		</div>
+		<div style="float:left;">
+			<input type="text" class="bibtex_search form-control" id="searchbar" placeholder="Search publications">
+			<span class="help-block">Example: journal 2015 (finds the intersection of the two terms)</span>
+		</div>
+		
+	</div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
+<div class="bibtex_structure">
+  <div class="group year" extra="ASC number">
+  	  <a href="#top" style="display: inline"><em>(Top of the page)</em></a>
+  	  <div style="padding-bottom:10px;"></div>
+  	  <div class="sort journal" extra="DESC string">
+      	<div class="templates"></div>
+      </div>
+  </div>
 </div>
-{% endif %}
 
-{% endif %}
-{% endfor %}
+<div id="bibtex_display">
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+  <div class="if bibtex_template" style="display: none;">
+    <ul> <li>
+      <span class="if journal !nolink">
+        <a class="bibtexVar" href="/papers/+BIBTEXKEY+.zip" extra="BIBTEXKEY">
+            <span style="text-decoration: underline;" class="title"></span>,
+        </a>
+      </span>
+      <span class="if title nolink">
+            <span class="title"></span>,
+      </span>
+      <div class="if author">
+        <span class="author"></span>
+      </div>
+      <div>
+        <span class="if journal"><em><span class="journal"></span></em>,</span>
+        <span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
+        <span class="if editor"><span class="editor"></span> (editors),</span>
+        <span class="if publisher"><em><span class="publisher"></span></em>,</span>
+        <span class="if !journal number">Technical report <span class="number"></span>,</span>
+        <span class="if institution"><span class="institution"></span>,</span>
+        <span class="if address"><span class="address"></span>,</span>
+        <span class="if volume"><span class="volume"></span>,</span>
+        <span class="if journal number">(<span class="number"></span>),</span>
+        <span class="if pages"> pages <span class="pages"></span>,</span>
+        <span class="if month"><span class="month"></span>,</span>
+        <span class="if year"><span class="year"></span>.</span>
+        <span class="if note"><span class="note"></span>.</span>
+        <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+		  [bib]
+		</a>
+      </div>
+      <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+		  <div class="well">
+		    <pre><span class="bibtexraw noread"></span></pre>
+		  </div>
+	  </div>
+      <div style="display:none"><span class="bibtextype"></span></div>
+      <div style="display:none"><span class="if topic"><span class="topic"></span></span></div>
+    </li></ul>
+  </div>
+  
 </div>
-{% endif %}
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
-<p> &nbsp; </p>
-
-
-## List of Publications
-
-{% for publi in site.data.publist %}
-
-  **{{ publi.title }}** <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
-{% endfor %}
-
+<br/>This publications page is generated by using <a href = "https://github.com/pcooksey/bibtex-js">bibtex_js</a>.
+</html>
