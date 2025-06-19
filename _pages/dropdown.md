@@ -1,13 +1,13 @@
 ---
 layout: page
-title: research
+title: Research
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Permafrost
+    permalink: /permafrost/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Icesheet
+    permalink: /icesheet/
 ---

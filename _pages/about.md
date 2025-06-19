@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: <a href='https://www.ees.cuhk.edu.hk/'>Department of Earth and Environmental Sciences</a>, Faculty of Science, The Chinese University of Hong Kong
 
@@ -23,7 +23,7 @@ announcements:
 
 ---
 
-Welcome to the Cryosphere Lab. Our research group studies the cryosphere, namely the earth’s surface where water is frozen. We use a wide range of methods, including geophysics, geodesy, remote sensing, and deep learning. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the cryospheric systems  Link to your favorite [subreddit](http://reddit.com). 
+Our research group studies the cryosphere, namely the earth’s surface where water is frozen. We use a wide range of methods, including geophysics, geodesy, remote sensing, and deep learning. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the cryospheric systems. 
 
 You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
