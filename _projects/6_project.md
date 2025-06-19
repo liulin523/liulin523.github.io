@@ -4,7 +4,7 @@ title: GNSS Reflectometry
 description: a project with no image
 img:
 importance: 4
-category: Completed
+category: Past
 ---
 
 Every project has a beautiful feature showcase page.

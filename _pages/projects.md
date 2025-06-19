@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Reserach Projects
+title: Projects
 permalink: /projects/
 description: ""
 nav: true
 nav_order: 4
-display_categories: [Onging, Completed]
+display_categories: [Current, Past]
 horizontal: false
 ---
 

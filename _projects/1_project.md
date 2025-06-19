@@ -4,7 +4,7 @@ title: Thaw slumps
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: Ongoing
+category: Current
 related_publications: true
 ---
 

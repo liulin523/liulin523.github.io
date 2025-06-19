@@ -4,7 +4,7 @@ title: Induced Earthquakes
 description: another without an image
 img:
 importance: 3
-category: Completed
+category: Past
 ---
 
 Every project has a beautiful feature showcase page.
