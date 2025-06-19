@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Department of Earth and Environmental Sciences</a>, Faculty of Science, The Chinese University of Hong Kong
+subtitle: <a href='https://www.ees.cuhk.edu.hk/'>Department of Earth and Environmental Sciences</a>, Faculty of Science, The Chinese University of Hong Kong
 
 profile:
   align: right
@@ -23,6 +23,8 @@ announcements:
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to the Cryosphere Lab. Our research group studies the cryosphere, namely the earth’s surface where water is frozen. We use a wide range of methods, including geophysics, geodesy, remote sensing, and deep learning. We adopt new tools, develop new algorithms, make new observations to quantify the dynamics of the cryospheric systems  Link to your favorite [subreddit](http://reddit.com). 
+
+You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
