@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Reserach Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: ""
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [Onging, Completed]
 horizontal: false
 ---
 
