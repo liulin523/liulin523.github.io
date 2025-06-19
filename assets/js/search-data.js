@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-photos",
+          title: "Photos",
+          description: "Field photos",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/photos/";
+          },
         },{id: "nav-team",
           title: "Team",
           description: "members of the lab",
@@ -30,19 +37,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/team/";
           },
-        },{id: "dropdown-permafrost",
+        },{id: "dropdown-ice-sheet",
+              title: "Ice sheet",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/icesheet/";
+              },
+            },{id: "dropdown-permafrost",
               title: "Permafrost",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/permafrost/";
               },
-            },{id: "dropdown-icesheet",
-              title: "Icesheet",
+            },{id: "dropdown-geophysics",
+              title: "Geophysics",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/icesheet/";
+                window.location.href = "/geophysics/";
               },
             },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
