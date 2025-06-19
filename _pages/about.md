@@ -2,10 +2,10 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://www.ees.cuhk.edu.hk/'>Department of Earth and Environmental Sciences</a>, <a href='https://www.sci.cuhk.edu.hk/'>Faculty of Science</a>, <a href='https://www.cuhk.edu.hk'>The Chinese University of Hong Kong</a>
+subtitle: <a href='https://www.ees.cuhk.edu.hk/'>Department of Earth and Environmental Sciences</a>, Faculty of Science, The Chinese University of Hong Kong
 
 profile:
-  align: bottom
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >

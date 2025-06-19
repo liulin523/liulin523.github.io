@@ -2,7 +2,7 @@
 layout: page
 title: Research
 nav: true
-nav_order: 6
+nav_order: 8
 dropdown: true
 children:
   - title: Ice sheet
@@ -13,7 +13,4 @@ children:
   - title: divider
   - title: Geophysics
     permalink: /geophysics/
-  - title: divider
-  - title: Other
-    permalink: /other/
 ---
