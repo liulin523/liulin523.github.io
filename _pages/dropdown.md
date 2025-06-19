@@ -13,4 +13,10 @@ children:
   - title: divider
   - title: Geophysics
     permalink: /geophysics/
+  - title: divider
+  - title: AI
+    permalink: /AI/
+  - title: divider
+  - title: Other
+    permalink: /other/
 ---
