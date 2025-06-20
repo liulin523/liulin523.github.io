@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 315, Mong Man Wai Building</p>
+    <p>+852-39439862</p>
+    <p>Room 315, Mong Man Wai Bldg</p>
     <p>CUHK, Shatin, NT</p>
     <p>Hong Kong SAR</p>
 
