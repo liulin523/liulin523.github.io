@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Lin Liu at 2025-06-20 15:17:28 +0200 
+%% Created for Lin Liu at 2025-06-20 16:01:00 +0200 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -9,6 +9,85 @@
 
 @string{aps = {American Physical Society,}}
 
+
+@article{RN21,
+	abstract = {Jakobshavn Isbre in west Greenland has been undergoing dramatic thinning since 1997. Applying the interferometric synthetic aperture radar (InSAR) technique to Radarsat-1 SAR data, we measure crustal uplift near Jakobshavn Isbr caused by recent ice mass loss. The crustal uplift is predominantly at long spatial wavelengths (larger than 10 km), and thus is difficult to separate from InSAR orbit errors. We reduce the effects of orbit errors by removing long-wavelength deformation signals using conventional InSAR baseline fitting methods. We find good agreement between the remaining short-scale InSAR-estimated deformation rates during 20042008 and the corresponding short-scale components of a deformation model that is based on changes in ice elevation measured by NASAs Airborne Topographic Mapper (ATM). We are also able to use the InSAR-measured deformation to invert for the spatial pattern of ice thinning. Overall, our results suggest that despite the inherent difficulties of working with a signal that has significant large-scale components, InSAR-measured crustal deformation can be used to study the ice mass loss of a rapidly thinning glacier and its surrounding catchment, providing both a constraint on any existing model of ice mass loss and a data source that can be used to invert for ice mass loss. These new applications of InSAR can help to better understand a glaciers rapid response to a warming climate.},
+	author = {Liu, Lin and Wahr, John and Howat, Ian and Khan, Shfaqat Abbas and Joughin, Ian and Furuya, Masato},
+	date-added = {2025-06-20 15:59:30 +0200},
+	date-modified = {2025-06-20 16:00:57 +0200},
+	doi = {10.1111/j.1365-246X.2011.05317.x},
+	journal = {Geophysical Journal International},
+	number = {3},
+	pages = {994--1006},
+	title = {Constraining ice mass loss from Jakobshavn Isbr{\ae} (Greenland) using InSAR-measured crustal uplift},
+	type = {Journal Article},
+	volume = {188},
+	year = {2012},
+	bdsk-url-1 = {https://doi.org/10.1111/j.1365-246X.2011.05317.x}}
+
+@article{RN3,
+	abstract = {The measurement of temporal changes in active layer thickness (ALT) is crucial to monitoring permafrost degradation in the Arctic. We develop a retrieval algorithm to estimate long-term average ALT using thaw-season surface subsidence derived from spaceborne interferometric synthetic aperture radar (InSAR) measurements. Our algorithm uses a model of vertical distribution of water content within the active layer accounting for soil texture, organic matter, and moisture. We determine the 1992-2000 average ALT for an 80 x 100 km study area of continuous permafrost on the North Slope of Alaska near Prudhoe Bay. We obtain an ALT of 30-50 cm over moist tundra areas, and a larger ALT of 50-80 cm over wet tundra areas. Our estimated ALT values match in situ measurements at Circumpolar Active Layer Monitoring (CALM) sites within uncertainties. Our results demonstrate that InSAR can provide ALT estimates over large areas at high spatial resolution.},
+	author = {Liu, L. and Schaefer, K. and Zhang, T. J. and Wahr, J.},
+	date-added = {2025-06-20 15:59:30 +0200},
+	date-modified = {2025-06-20 15:59:30 +0200},
+	doi = {10.1029/2011jf002041},
+	issn = {2169-9003},
+	journal = {Journal of Geophysical Research-Earth Surface},
+	keywords = {kuparuk river-basin arctic drainage-basin coastal-plain thaw settlement usa variability permafrost depth soils climate Geology},
+	note = {ISI Document Delivery No.: 877KY Times Cited: 46 Cited Reference Count: 63 Liu, Lin Schaefer, Kevin Zhang, Tingjun Wahr, John Liu, Lin/0000-0002-9581-1337 U.S. National Aeronautics and Space Administration (NASA) Headquarters [NNX08AU85H]; NASA [NNX06AE65G, NNX10AR63G]; U.S. National Oceanic and Atmospheric Administration (NOAA) [NA09OAR4310063] We thank three anonymous reviewers and the editors for their constructive and insightful comments. This work was partially supported by U.S. National Aeronautics and Space Administration (NASA) Headquarters under the Earth and Space Science Fellowship Program NNX08AU85H, by the NASA grants NNX06AE65G and NNX10AR63G, and by the U.S. National Oceanic and Atmospheric Administration (NOAA) grant NA09OAR4310063. 47 1 28 Amer geophysical union Washington 2169-9011},
+	pages = {14},
+	title = {Estimating 1992-2000 average active layer thickness on the Alaskan North Slope from remotely sensed surface subsidence},
+	type = {Journal Article},
+	url = {<Go to ISI>://WOS:000299180800001},
+	volume = {117},
+	year = {2012},
+	bdsk-url-1 = {%3CGo%20to%20ISI%3E://WOS:000299180800001},
+	bdsk-url-2 = {https://doi.org/10.1029/2011jf002041}}
+
+@article{RN35,
+	author = {Parsekian, Andrew D and Grosse, Guido and Walbrecker, Jan O and M{\"u}ller-Petke, Mike and Keating, Kristina and Liu, Lin and Jones, Benjamin M and Knight, Rosemary},
+	date-added = {2025-06-20 15:59:30 +0200},
+	date-modified = {2025-06-20 15:59:30 +0200},
+	doi = {10.1002/grl.50137},
+	journal = {Geophysical Research Letters},
+	note = {ORCID Reference type: [bibtex]; ORCID Reference: [@article{parsekian2013detecting, title= {Detecting unfrozen sediments below thermokarst lakes with surface nuclear magnetic resonance}, author= {Parsekian, Andrew D and Grosse, Guido and Walbrecker, Jan O and M{\"u}ller-Petke, Mike and Keating, Kristina and Liu, Lin and Jones, Benjamin M and Knight, Rosemary}, journal= {Geophysical Research Letters}, volume= {40}, number= {3}, pages= {535--540}, year= {2013}, publisher= {Wiley Online Library}} ]},
+	number = {3},
+	pages = {535--540},
+	title = {Detecting unfrozen sediments below thermokarst lakes with surface nuclear magnetic resonance},
+	type = {Journal Article},
+	volume = {40},
+	year = {2013},
+	bdsk-url-1 = {https://doi.org/10.1002/grl.50137}}
+
+@article{RN17,
+	author = {Wahr, John and Khan, Shfaqat A and Dam, Tonie and Liu, Lin and Angelen, Jan H and Broeke, Michiel R and Meertens, Charles M},
+	date-added = {2025-06-20 15:59:30 +0200},
+	date-modified = {2025-06-20 15:59:30 +0200},
+	doi = {10.1002/jgrb.50104},
+	journal = {Journal of Geophysical Research: Solid Earth},
+	note = {ORCID Reference type: [bibtex]; ORCID Reference: [@article{wahr2013use, title= {The use of GPS horizontals for loading studies, with applications to northern California and southeast Greenland}, author= {Wahr, John and Khan, Shfaqat A and Dam, Tonie and Liu, Lin and Angelen, Jan H and Broeke, Michiel R and Meertens, Charles M}, journal= {Journal of Geophysical Research: Solid Earth}, volume= {118}, number= {4}, pages= {1795--1806}, year= {2013}, publisher= {Wiley Online Library}} ]},
+	number = {4},
+	pages = {1795--1806},
+	title = {The use of GPS horizontals for loading studies, with applications to northern California and southeast Greenland},
+	type = {Journal Article},
+	volume = {118},
+	year = {2013},
+	bdsk-url-1 = {https://doi.org/10.1002/jgrb.50104}}
+
+@article{RN22,
+	author = {Nielsen, Karina and Khan, Shfaqat A and Spada, Giorgio and Wahr, John and Bevis, Michael and Liu, Lin and Dam, Tonie},
+	date-added = {2025-06-20 15:59:30 +0200},
+	date-modified = {2025-06-20 15:59:30 +0200},
+	doi = {10.1002/jgrb.50145},
+	journal = {Journal of Geophysical Research: Solid Earth},
+	note = {ORCID Reference type: [bibtex]; ORCID Reference: [@article{nielsen2013vertical, title= {Vertical and horizontal surface displacements near Jakobshavn Isbr{\ae} driven by melt-induced and dynamic ice loss}, author= {Nielsen, Karina and Khan, Shfaqat A and Spada, Giorgio and Wahr, John and Bevis, Michael and Liu, Lin and Dam, Tonie}, journal= {Journal of Geophysical Research: Solid Earth}, volume= {118}, number= {4}, pages= {1837--1844}, year= {2013}, publisher= {Wiley Online Library}} ]},
+	number = {4},
+	pages = {1837--1844},
+	title = {Vertical and horizontal surface displacements near Jakobshavn Isbr{\ae} driven by melt-induced and dynamic ice loss},
+	type = {Journal Article},
+	volume = {118},
+	year = {2013},
+	bdsk-url-1 = {https://doi.org/10.1002/jgrb.50145}}
 
 @article{RN19,
 	abstract = {The Earth' s gravity field change caused by the inner core' s super rotation is investigated. It is dissertated that the inner core has three main characters: it has ellipsoidal shape; the anisotropic symmetric axis of the inner core coincides with its self-rotation axis; the rotation axis of the inner core is tilted to and processes around the Earth's rotation axis. The inner core' s super rotation gives rise to the mass redistribution of the Earth system, and consequently results in the variation of the gravity field. By investigating the motion of the inner core's super rotation, a model of gravity change caused by the inner core's super rotation is established. Calculation results are provided about the gravity variations on the whole surface of the Earth caused by the inner core' s super rotation. Under the assumption of the super rotation rate V/a, the maximum gravity variation in one year is around 0.37 micro Gal.},
