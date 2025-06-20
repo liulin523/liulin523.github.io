@@ -1,7 +1,7 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Lin Liu at 2025-06-20 18:03:14 +0200 
+%% Created for Lin Liu at 2025-06-20 17:51:22 +0200 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
@@ -9,75 +9,6 @@
 
 @string{aps = {American Physical Society,}}
 
-
-@article{Xia2024,
-	abstract = {Retrogressive thaw slumps (RTSs), formed by abrupt degradation of ice-rich permafrost, are widely distributed on the Qinghai-Tibet Plateau, causing infrastructure damage and enhancing soil carbon emissions. We compiled annual RTS inventories across the plateau from 2016 to 2022 using a deep-learning-aided method to quantify the spatial-temporal variations. We found that RTS-affected locations increased from 1,592 to 3,805 in 2016--2022, which increased affected areas by 2.8 times from 1,714 to 6,507 ha. The most active initiation and expansion periods were in 2016--2017 and 2018--2019. RTSs tend to be clustered, showing local heterogeneity among clusters characterized by various responses toward high temperatures and precipitation and tendencies to be on different topography and vegetation types. This research reveals the rapid development, wide distribution and regional heterogeneity of RTS activities, serving as a crucial step toward understanding how RTSs respond to climate change and regional environmental varieties.},
-	altmetric = {true},
-	author = {Xia, Zhuoxuan and Liu, Lin and Mu, Cuicui and Peng, Xiaoqing and Zhao, Zhuoyi and Huang, Lingcao and Luo, Jing and Fan, Chengyan},
-	date-added = {2025-06-20 18:00:59 +0200},
-	date-modified = {2025-06-20 18:00:59 +0200},
-	dimensions = {true},
-	doi = {10.1029/2024gl109616},
-	issn = {1944-8007},
-	journal = {Geophysical Research Letters},
-	month = sep,
-	number = {17},
-	pages = {e2024GL109616},
-	publisher = {American Geophysical Union (AGU)},
-	selected = {true},
-	title = {Widespread and rapid activities of retrogressive thaw slumps on the Qinghai-Tibet Plateau from 2016 to 2022},
-	url = {http://dx.doi.org/10.1029/2024GL109616},
-	volume = {51},
-	year = {2024},
-	bdsk-url-1 = {http://dx.doi.org/10.1029/2024GL109616}}
-
-@article{parsekian2013,
-	abstract = {A talik is a layer or body of unfrozen ground that occurs in permafrost due to an anomaly in thermal, hydrological, or hydrochemical conditions. Information about talik geometry is important for understanding regional surface water and groundwater interactions as well as sublacustrine methane production in thermokarst lakes. Due to the direct measurement of unfrozen water content, surface nuclear magnetic resonance (NMR) is a promising geophysical method for noninvasively estimating talik dimensions. We made surface NMR measurements on thermokarst lakes and terrestrial permafrost near Fairbanks, Alaska, and confirmed our results using limited direct measurements. At an 8 m deep lake, we observed thaw bulb at least 22 m below the surface; at a 1.4 m deep lake, we detected a talik extending between 5 and 6 m below the surface. Our study demonstrates the value that surface NMR may have in the cryosphere for studies of thermokarst lake hydrology and their related role in the carbon cycle.},
-	altmetric = {true},
-	author = {Parsekian, Andrew and Grosse, Guido and Walbrecker, Jan and M{\"u}ller-Petke, Mike and Keating, Kristina and Liu, Lin and Jones, Benjamin and Knight, Rosemary},
-	date-added = {2025-06-20 17:54:13 +0200},
-	date-modified = {2025-06-20 17:58:15 +0200},
-	dimensions = {true},
-	doi = {10.1002/grl.50137},
-	journal = {Geophysical Research Letters},
-	number = {3},
-	pages = {535--540},
-	title = {Detecting unfrozen sediments below thermokarst lakes with surface nuclear magnetic resonance},
-	volume = {40},
-	year = {2013},
-	bdsk-url-1 = {https://doi.org/10.1002/grl.50137}}
-
-@article{wahr2013,
-	abstract = {We describe how GPS measurements of horizontal crustal motion can be used to augment vertical crustal motion measurements, to improve and extend GPS studies of surface loading. We show that the ratio of the vertical displacement to the horizontal displacement, combined with the direction of the horizontal motion, can help determine whether nearby loading is concentrated in a small region (for example, in a single lake or glacier), and where that region is. We illustrate this method by applying it to two specific cases: an analysis of GPS data from northern California to monitor the level of Lake Shasta, and the analysis of data from a single GPS site in southeast Greenland to determine mass variability of two large, nearby outlet glaciers: Helheim Glacier and Midgaard Glacier. The California example serves largely as a proof-of-concept, where the results can be assessed by comparing with independent observations (Lake Shasta tide gauge data, in this case). Our Greenland results show that both Helheim and Midgaard have experienced notable interannual variations in mass loss rate over the last decade. Helheim's mass loss accelerated rapidly in mid-2003, decelerated in late 2005, and increased again in 2008--2009 before returning to about its pre-2003 rate in late 2010. Midgaard's mass loss accelerated in mid-2004, and remained more-or-less constant before returning to its pre-2003 rate in late 2008.},
-	altmetric = {true},
-	author = {Wahr, John and Khan, Shfaqat A and {van Dam}, Tonie and Liu, Lin and Angelen, Jan H and Broeke, Michiel R and Meertens, Charles M},
-	date-added = {2025-06-20 17:54:13 +0200},
-	date-modified = {2025-06-20 17:57:55 +0200},
-	dimensions = {true},
-	doi = {10.1002/jgrb.50104},
-	journal = {Journal of Geophysical Research: Solid Earth},
-	number = {4},
-	pages = {1795--1806},
-	title = {The use of GPS horizontals for loading studies, with applications to northern California and southeast Greenland},
-	volume = {118},
-	year = {2013},
-	bdsk-url-1 = {https://doi.org/10.1002/jgrb.50104}}
-
-@article{neilsen2013,
-	abstract = {We analyze Global Positioning System (GPS) time series of relative vertical and horizontal surface displacements from 2006 to 2012 at four GPS sites located between ∼5 and ∼150 km from the front of Jakobshavn Isbr{\ae} (JI) in west Greenland. Horizontal displacements during 2006--2010 at KAGA, ILUL, and QEQE, relative to the site AASI, are directed toward north-west, suggesting that the main mass loss signal is located near the frontal portion of JI. The directions of the observed displacements are supported by modeled displacements, derived from NASA's Airborne Topographic Mapper (ATM) surveys of surface elevations from 2006, 2009, and 2010. However, horizontal displacements during 2010--2012 at KAGA and ILUL are directed more towards the west suggesting a change in the spatial distribution of the ice mass loss. In addition, we observe an increase in the uplift rate during 2010--2012 as compared to 2006--2010. The sudden change in vertical and horizontal displacements is due to enhanced melt-induced ice loss in 2010 and 2012.},
-	altmetric = {true},
-	author = {Nielsen, Karina and Khan, Shfaqat A and Spada, Giorgio and Wahr, John and Bevis, Michael and Liu, Lin and {van Dam}, Tonie},
-	date-added = {2025-06-20 17:54:13 +0200},
-	date-modified = {2025-06-20 17:59:44 +0200},
-	dimensions = {true},
-	doi = {10.1002/jgrb.50145},
-	journal = {Journal of Geophysical Research: Solid Earth},
-	number = {4},
-	pages = {1837--1844},
-	title = {Vertical and horizontal surface displacements near Jakobshavn Isbr{\ae} driven by melt-induced and dynamic ice loss},
-	volume = {118},
-	year = {2013},
-	bdsk-url-1 = {https://doi.org/10.1002/jgrb.50145}}
 
 @article{liu2012,
 	abstract = {
@@ -107,7 +38,7 @@ Jakobshavn Isbr{\ae} in west Greenland has been undergoing dramatic thinning sin
 	doi = {10.1029/2011jf002041},
 	issn = {2169-9003},
 	journal = {Journal of Geophysical Research-Earth Surface},
-	month = {January},
+	month = {January },
 	pages = {F01005},
 	title = {Estimating 1992-2000 average active layer thickness on the Alaskan North Slope from remotely sensed surface subsidence},
 	type = {Journal Article},
@@ -136,21 +67,25 @@ Jakobshavn Isbr{\ae} in west Greenland has been undergoing dramatic thinning sin
 	year = {2010},
 	bdsk-url-1 = {http://dx.doi.org/10.1029/2024GL109616}}
 
-@article{liu2012a,
-	abstract = {Jakobshavn Isbr{\ae} in west Greenland has been undergoing dramatic thinning since 1997. Applying the interferometric synthetic aperture radar (InSAR) technique to Radarsat-1 SAR data, we measure crustal uplift near Jakobshavn Isbr{\ae} caused by recent ice mass loss. The crustal uplift is predominantly at long spatial wavelengths (larger than 10 km), and thus is difficult to separate from InSAR orbit errors. We reduce the effects of orbit errors by removing long-wavelength deformation signals using conventional InSAR baseline fitting methods. We find good agreement between the remaining short-scale InSAR-estimated deformation rates during 2004-2008 and the corresponding short-scale components of a deformation model that is based on changes in ice elevation measured by NASA′s Airborne Topographic Mapper (ATM). We are also able to use the InSAR-measured deformation to invert for the spatial pattern of ice thinning. Overall, our results suggest that despite the inherent difficulties of working with a signal that has significant large-scale components, InSAR-measured crustal deformation can be used to study the ice mass loss of a rapidly thinning glacier and its surrounding catchment, providing both a constraint on any existing model of ice mass loss and a data source that can be used to invert for ice mass loss. These new applications of InSAR can help to better understand a glacier′s rapid response to a warming climate.},
+@article{Xia2024,
+	abstract = {Retrogressive thaw slumps (RTSs), formed by abrupt degradation of ice-rich permafrost, are widely distributed on the Qinghai-Tibet Plateau, causing infrastructure damage and enhancing soil carbon emissions. We compiled annual RTS inventories across the plateau from 2016 to 2022 using a deep-learning-aided method to quantify the spatial-temporal variations. We found that RTS-affected locations increased from 1,592 to 3,805 in 2016--2022, which increased affected areas by 2.8 times from 1,714 to 6,507 ha. The most active initiation and expansion periods were in 2016--2017 and 2018--2019. RTSs tend to be clustered, showing local heterogeneity among clusters characterized by various responses toward high temperatures and precipitation and tendencies to be on different topography and vegetation types. This research reveals the rapid development, wide distribution and regional heterogeneity of RTS activities, serving as a crucial step toward understanding how RTSs respond to climate change and regional environmental varieties.},
 	altmetric = {true},
-	author = {Liu, Lin and Wahr, John and Howat, Ian and Khan, Shfaqat Abbas and Joughin, Ian and Furuya, Masato},
+	author = {Xia, Zhuoxuan and Liu, Lin and Mu, Cuicui and Peng, Xiaoqing and Zhao, Zhuoyi and Huang, Lingcao and Luo, Jing and Fan, Chengyan},
 	date-added = {2025-06-20 17:19:27 +0200},
-	date-modified = {2025-06-20 18:02:51 +0200},
+	date-modified = {2025-06-20 17:43:54 +0200},
 	dimensions = {true},
-	doi = {10.1111/j.1365-246X.2011.05317.x},
-	journal = {Geophysical Journal International},
-	number = {3},
-	pages = {994--1006},
-	title = {Constraining ice mass loss from Jakobshavn Isbr{\ae} (Greenland) using InSAR-measured crustal uplift},
-	url = {https://academic.oup.com/gji/article/188/3/994/692309},
-	volume = {188},
-	year = {2012},
+	doi = {10.1029/2024gl109616},
+	issn = {1944-8007},
+	journal = {Geophysical Research Letters},
+	month = sep,
+	number = {17},
+	pages = {e2024GL109616},
+	publisher = {American Geophysical Union (AGU)},
+	selected = {true},
+	title = {Widespread and rapid activities of retrogressive thaw slumps on the Qinghai-Tibet Plateau from 2016 to 2022},
+	url = {http://dx.doi.org/10.1029/2024GL109616},
+	volume = {51},
+	year = {2024},
 	bdsk-url-1 = {http://dx.doi.org/10.1029/2024GL109616}}
 
 @article{khan2010,
@@ -220,3 +155,12 @@ Jakobshavn Isbr{\ae} in west Greenland has been undergoing dramatic thinning sin
 	year = {1935},
 	bdsk-url-1 = {http://link.aps.org/doi/10.1103/PhysRev.47.777},
 	bdsk-url-2 = {https://doi.org/10.1103/PhysRev.47.777}}
+
+@book{przibram1967letters,
+	abbr = {Vision},
+	author = {Einstein, Albert and Schr{\"o}dinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
+	bibtex_show = {true},
+	preview = {wave-mechanics.gif},
+	publisher = {Vision},
+	title = {Letters on wave mechanics},
+	year = {1967}}
