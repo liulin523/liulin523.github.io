@@ -284,6 +284,8 @@
               class="altmetric-embed"
               data-badge-type="donut"
               data-badge-popover="right"
+              data-no-score="true"
+              data-hide-less-than=10
               {% if entry.altmetric != blank and entry.altmetric != 'true' %}
                 data-altmetric-id="{{ entry.altmetric }}"
               {% elsif entry.arxiv %}
