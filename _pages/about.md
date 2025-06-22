@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ees.cuhk.edu.hk/'>Department of Earth and Environ
 
 profile:
   align: bottom
-  image: prof_pic.jpg
+  image: greenland_glacier.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+852-3943 9862</p>
