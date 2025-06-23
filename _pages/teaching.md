@@ -11,6 +11,6 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 ## Educational materials
 
-<a href="https://cuhkesscelearn.wixsite.com/home"> A collection of elearning materials </a> produced by our <a href="https://www.ees.cuhk.edu.hk/"> Department of Earth and Environmental Sciences</a>.
+<a href="https://cuhkesscelearn.wixsite.com/home"> A collection of e-learning materials </a> produced by our <a href="https://www.ees.cuhk.edu.hk/"> Department of Earth and Environmental Sciences</a>.
 
-[Geodesy and Gravity](/assets/Wahr_Geodesy.pd), a class note written by <a href="http://www.johnwahr.com"> John M. Wahr</a>.
+[Geodesy and Gravity](/assets/pdf/Wahr_Geodesy.pdf), class notes written by <a href="http://www.johnwahr.com"> John M. Wahr</a>.
