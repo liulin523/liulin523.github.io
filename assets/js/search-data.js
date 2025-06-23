@@ -158,7 +158,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-eric-p-xing",
           title: 'Eric P. Xing',
-          description: "Professor",
+          description: "Associate Professor and Group Leader",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xing_eric/";
             },},{
