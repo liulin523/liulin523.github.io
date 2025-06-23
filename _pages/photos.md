@@ -6,9 +6,9 @@ description: Field photos
 nav: true
 nav_order: 7
 ---
-## Dadongshushan Pass in Qilian Mountain, Qinghai, 2018
+## Snow monitoring site in Qilian Mountain, Qinghai, 2018
 By Jiahua Zhang
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000">
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000">
   <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
     <li data-target="#carousel" data-slide-to="1"></li>
@@ -17,13 +17,13 @@ By Jiahua Zhang
   
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block" src="/assets/img/field/Jiahua1.jpg" alt="Slide 1" style="width:60%; margin:0 auto;">
+      <img class="d-block" src="/assets/img/field/Jiahua1.jpg" alt="Slide 1" style="width:50%; margin:0 auto;">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/field/Jiahua2.jpg" alt="Slide 2">
+      <img class="d-block" src="/assets/img/field/Jiahua2.jpg" alt="Slide 2" style="width:50%; margin:0 auto;">    
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/field/Jiahua3.jpg" alt="Slide 3">
+      <img class="d-block" src="/assets/img/field/Jiahua3.jpg" alt="Slide 3" style="width:50%; margin:0 auto;">
     </div>
   </div>
   
