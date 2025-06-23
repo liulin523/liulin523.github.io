@@ -20,13 +20,13 @@ By Jiahua Zhang
 <div class="carousel-inner" markdown="0">
 
 <div class="item active">
-<img src="assets/img/field/Jiahua1.jpg" alt="Slide 1" />
+<img src="/assets/img/field/Jiahua1.jpg" alt="Slide 1" />
 </div>
 <div class="item">
-<img src="assets/img/field/Jiahua2.jpg" alt="Slide 2" />
+<img src="/assets/img/field/Jiahua2.jpg" alt="Slide 2" />
 </div>
 <div class="item">
-<img src="assets/img/field/Jiahua3.jpg" alt="Slide 3" />
+<img src="/assets/img/field/Jiahua3.jpg" alt="Slide 3" />
 </div>
 </div>
 <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
