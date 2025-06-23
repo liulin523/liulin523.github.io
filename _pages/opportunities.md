@@ -13,7 +13,7 @@ Please refer to our [postgraduate webpage](https://www.ees.cuhk.edu.hk/programme
 
 You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship Scheme**. The application deadline is around 1 December every year. Please refer to [this website](http://www.rgc.edu.hk/hkphd) for further details of the scheme. 
 
-Every summer in early July, we host a **workshop** inviting all potential applicants to our campus. The first batch of PhD offers are made shortly after the workshop. <!-- Application is now open with a deadline on May 5.  See futher detail from this [webpage](http://www.cuhk.edu.hk/sci/essc/sw2019.html).--> 
+Every July, we host a camp inviting all potential applicants to our campus. The first batch of PhD offers are made shortly after the summer camp. <!-- Application is now open with a deadline on May 5.  See futher detail from this [webpage](http://www.cuhk.edu.hk/sci/essc/sw2019.html).--> 
 
 ## MPhil positions
 Contact us
