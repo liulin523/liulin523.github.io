@@ -37,6 +37,9 @@ By Jiahua Zhang
   </a>
 </div>
 
+<p> &nbsp; </p>
+
+
 ## Rock glaciers in the European Alps, 2018
 By Yan Hu
 <div id="carouselAlps" class="carousel slide" data-ride="carousel" data-interval="5000">
@@ -67,6 +70,9 @@ By Yan Hu
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+<p> &nbsp; </p>
 
 ## Field Photos on the Tibetan Plateau, 2017-2018
 By Lingcao Huang
@@ -107,17 +113,5 @@ By Lingcao Huang
   </a>
 </div>
 
-## Old photos
-(Right-click 'view image' to see a larger image)
-<div class="row">
-{% for pic in site.data.field_pictures %}
-  <div class="col-sm-3 clearfix">
-    <img src="/assets/img/field/{{ pic.image }}" class="img-responsive" width="50%" style="float: left" alt="{{ pic.description | default: 'Field photo' }}"/>
-  </div>
-  {% assign loopindex = forloop.index | modulo: 4 %}
-  {% if loopindex == 0 or forloop.last %}
-    </div>{% unless forloop.last %}<div class="row">{% endunless %}
-  {% endif %}
-{% endfor %}
 
-<p>&nbsp;</p>
+<p> &nbsp; </p>
