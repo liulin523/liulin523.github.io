@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
 description: "Research projects"
-nav: true
-nav_order: 4
 display_categories: [Current, Past]
 horizontal: false
 ---
