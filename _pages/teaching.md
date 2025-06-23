@@ -13,6 +13,33 @@ nav_order: 6
 [Geodesy and Gravity](/assets/pdf/Wahr_Geodesy.pdf), class notes written by <a href="http://www.johnwahr.com"> John M. Wahr</a>.
 
 ## Talks
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe 
+    class="embed-responsive-item" 
+    src="https://www.youtube-nocookie.com/embed/R1EvZQOVitc?start=123&rel=0&modestbranding=1" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe 
+    class="embed-responsive-item" 
+    src="https://www.youtube-nocookie.com/embed/8YP_s7vpES8?rel=0&modestbranding=1" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe 
+    class="embed-responsive-item" 
+    src="https://www.youtube-nocookie.com/embed/bncvEry0SNY?rel=0&modestbranding=1" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    title="YouTube video player">
+  </iframe>
+</div>
 
 ## Outreach
 
