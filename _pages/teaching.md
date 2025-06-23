@@ -8,6 +8,6 @@ nav_order: 6
 ---
 ## Educational materials
 
-<a href="https://cuhkesscelearn.wixsite.com/home"> A collection of e-learning materials </a> produced by our <a href="https://www.ees.cuhk.edu.hk/"> Department of Earth and Environmental Sciences</a>.
+<a href="https://www.ees.cuhk.edu.hk/resources/e-learning/"> A collection of e-learning materials </a> produced by our <a href="https://www.ees.cuhk.edu.hk/"> Department of Earth and Environmental Sciences</a>.
 
 [Geodesy and Gravity](/assets/pdf/Wahr_Geodesy.pdf), class notes written by <a href="http://www.johnwahr.com"> John M. Wahr</a>.
