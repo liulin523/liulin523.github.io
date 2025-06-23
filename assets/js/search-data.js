@@ -37,40 +37,33 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "dropdown-ice-sheet",
-              title: "Ice sheet",
+        },{id: "dropdown-ice-sheets",
+              title: "Ice sheets",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/icesheet/";
+                window.location.href = "/research_icesheet/";
               },
             },{id: "dropdown-permafrost",
               title: "Permafrost",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/permafrost/";
+                window.location.href = "/research_permafrost/";
               },
             },{id: "dropdown-geophysics",
               title: "Geophysics",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/geophysics/";
+                window.location.href = "/research_geophysics/";
               },
             },{id: "dropdown-ai",
               title: "AI",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/AI/";
-              },
-            },{id: "dropdown-other",
-              title: "Other",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/other/";
+                window.location.href = "/research_ai/";
               },
             },{id: "nav-teaching",
           title: "Teaching",
@@ -108,12 +101,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
+      },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
