@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/opportunities/";
           },
+        },{id: "nav-people",
+          title: "People",
+          description: "Members of the research lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-projects",
           title: "Projects",
           description: "Research projects",
@@ -160,6 +167,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-eric-p-xing",
+          title: 'Eric P. Xing',
+          description: "Professor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xing_eric/";
             },},{
         id: 'social-email',
         title: 'email',
