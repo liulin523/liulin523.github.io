@@ -13,6 +13,7 @@ nav_order: 6
 [Geodesy and Gravity](/assets/pdf/Wahr_Geodesy.pdf), class notes written by <a href="http://www.johnwahr.com"> John M. Wahr</a>.
 
 ## Talks
+GNSS-IR Webinar on Permafrost Applications
 <div class="embed-responsive embed-responsive-16by9">
   <iframe 
     class="embed-responsive-item" 
@@ -22,6 +23,8 @@ nav_order: 6
   </iframe>
 </div>
 
+<p> &nbsp; </p>
+Guy F. Atkinson Endowed Distinguished Lecture Series at University of Utah 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe 
     class="embed-responsive-item" 
@@ -31,6 +34,8 @@ nav_order: 6
   </iframe>
 </div>
 
+<p> &nbsp; </p>
+UTIG Seminar at University of Texas 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe 
     class="embed-responsive-item" 
@@ -40,6 +45,8 @@ nav_order: 6
     title="YouTube video player">
   </iframe>
 </div>
+
+<p> &nbsp; </p>
 
 ## Outreach
 
