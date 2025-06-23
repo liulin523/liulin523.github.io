@@ -8,7 +8,7 @@ nav_order: 7
 ---
 ## Dadongshushan Pass in Qilian Mountain, Qinghai, 2018
 By Jiahua Zhang
-<<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000">
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000">
   <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
     <li data-target="#carousel" data-slide-to="1"></li>
