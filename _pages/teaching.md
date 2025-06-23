@@ -14,22 +14,9 @@ nav_order: 6
 
 ## Talks
 
-GNSS-IR webinar on permafrost applications
-<!-- Responsive YouTube Embed (Starting at 2:03) -->
-<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube-nocookie.com/embed/R1EvZQOVitc?start=123&rel=0&modestbranding=1" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen
-    title="GNSS-IR webinsar">
-  </iframe>
-</div>
-
 ## Outreach
 
-TV interview with RTHK about Antarctic Expedition
+TV interview with RTHK about Antarctic Expedition:
 <div class="embed-responsive embed-responsive-16by9">
   <iframe 
     class="embed-responsive-item" 
