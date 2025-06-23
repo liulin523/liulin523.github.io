@@ -17,7 +17,7 @@ By Jiahua Zhang
   
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="/assets/img/field/Jiahua1.jpg" alt="Slide 1">
+      <img class="d-block" src="/assets/img/field/Jiahua1.jpg" alt="Slide 1" style="width:60%; margin:0 auto;">
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/field/Jiahua2.jpg" alt="Slide 2">
