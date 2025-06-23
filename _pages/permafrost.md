@@ -1,8 +1,6 @@
 ---
-title: "Cryosphere Lab - Research - Frozen Ground"
-layout: textlay
-excerpt: "Cryosphere Lab -- Research"
-sitemap: false
+layout: page
+title: "Permafrost Research"
 permalink: /permafrost/
 ---
 
