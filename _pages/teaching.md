@@ -43,7 +43,7 @@ nav_order: 6
 
 ## Outreach
 
-TV interview with RTHK about Antarctic Expedition:
+TV interview with RTHK about Antarctic Expedition
 <div class="embed-responsive embed-responsive-16by9">
   <iframe 
     class="embed-responsive-item" 
