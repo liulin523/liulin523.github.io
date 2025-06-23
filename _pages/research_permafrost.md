@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research on Permafrost"
-permalink: /permafrost/
+permalink: /research_permafrost/
 ---
 
 ## Kinematics and dynamics of rock glaciers in western China
