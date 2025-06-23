@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-team",
-          title: "Team",
-          description: "Members of the research lab",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/team/";
-          },
-        },{id: "nav-opportunities",
+  },{id: "nav-opportunities",
           title: "Opportunities",
           description: "Welcome to join us!",
           section: "Navigation",
@@ -29,13 +22,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
-          },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "Research projects",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -118,6 +104,9 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-our-website-adopts-a-new-style-sparkles-smile",
           title: 'Our website adopts a new style! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-the-renewed-group-website-is-now-live-sparkles-smile",
+          title: 'The (renewed) group website is now live! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-testing-sparkles",
           title: 'Testing :sparkles:',
