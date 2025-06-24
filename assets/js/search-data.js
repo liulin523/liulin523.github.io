@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "Members of the research lab",
+          description: "Current and past group members",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
@@ -29,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-test",
-          title: "Test",
-          description: "Test",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/test/";
           },
         },{id: "dropdown-ice-sheets",
               title: "Ice sheets",
