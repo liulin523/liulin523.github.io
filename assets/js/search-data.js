@@ -115,7 +115,12 @@ ninja.data = [{
           section: "News",},{id: "news-the-modernized-group-website-is-now-live-sparkles-smile",
           title: 'The modernized group website is now live! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "people-eric-p-xing",
+          section: "News",},{id: "people-lin-liu",
+          title: 'Lin Liu',
+          description: "Associate Professor and Group Leader",
+          section: "People",handler: () => {
+              window.location.href = "/people/liu_lin/";
+            },},{id: "people-eric-p-xing",
           title: 'Eric P. Xing',
           description: "Professor",
           section: "People",handler: () => {
@@ -165,11 +170,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-lin-liu",
-          title: 'Lin Liu',
-          description: "Associate Professor and Group Leader",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/lin_liu/";
             },},{
         id: 'social-email',
         title: 'email',
