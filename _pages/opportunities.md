@@ -4,7 +4,7 @@ title: Opportunities
 permalink: /opportunities/
 description: Welcome to join us!
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 ## PhD positions
 Our group takes one or two new PhD students every year.  Students in our group came from various educational backgrounds (geophysics, geology, math, physics, remote sensing, machine learning, civil engineering, electrical engineering, surveying/geomatics, GIS, etc). Students with strong mathematics and physics background and programming skills are desirable. If you are interested in pursuing PhD degree in our group, please send an [email](mailto:liulin@cuhk.edu.hk). State what and why you are interested and attach a CV.

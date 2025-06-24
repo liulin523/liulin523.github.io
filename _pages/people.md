@@ -4,7 +4,7 @@ title: People
 description: "Current and past group members"
 permalink: /people/
 nav: true
-nav_order: 4
+nav_order: 2
 display_categories: [Current, Alumni]
 horizontal: false
 ---
