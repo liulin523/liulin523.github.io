@@ -160,7 +160,7 @@ ninja.data = [{
               window.location.href = "/projects/jiang_guoyan/";
             },},{id: "projects-lin-liu",
           title: 'Lin Liu',
-          description: "Associate Professor and Group LeaderCV",
+          description: "Associate Professor and Group LeaderCurriculum Vitae",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liu_lin/";
             },},{id: "projects-xiaowen-wang",
