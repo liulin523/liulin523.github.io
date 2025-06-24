@@ -5,7 +5,7 @@ description: "Current and past group members"
 permalink: /people/
 nav: true
 nav_order: 2
-display_categories: [Current, Alumni, Group Leader]
+display_categories: [Group Leader, Current, Alumni≈]
 horizontal: false
 ---
 
