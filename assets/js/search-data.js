@@ -155,12 +155,12 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-guoyan-jiang",
           title: 'Guoyan Jiang',
-          description: "Postdoc (2017-19, jointly supervised with Teng-fong Wong), now Professor at Wuhan University",
+          description: "Postdoc (2017-19, jointly supervised with Teng-fong Wong) now Professor at Wuhan University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jiang_guoyan/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-lin-liu",
+          title: 'Lin Liu',
+          description: "Associate Professor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liu_lin/";
             },},{id: "projects-xiaowen-wang",
