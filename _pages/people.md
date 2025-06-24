@@ -5,7 +5,7 @@ permalink: /people/
 description: "Members of the research lab"
 nav: true
 nav_order: 4
-display_categories: [Current, Past]
+display_categories: [Current, Alumni]
 horizontal: false
 ---
 
