@@ -8,11 +8,7 @@ profile:
   align: bottom
   image: greenland_glacier.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>+852-3943 9862</p>
-    <p>Room 315, Mong Man Wai Bldg</p>
-    <p>CUHK, Shatin, NT</p>
-    <p>Hong Kong SAR</p>
+ 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
