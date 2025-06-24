@@ -160,7 +160,7 @@ ninja.data = [{
           title: 'Lin Liu',
           description: "Associate Professor and Group Leader",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/xing_eric/";
+              window.location.href = "/projects/lin_liu/";
             },},{
         id: 'social-email',
         title: 'email',
