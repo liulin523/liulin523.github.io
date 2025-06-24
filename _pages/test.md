@@ -2,6 +2,8 @@
 layout: page
 title: Test
 description: "Test"
+nav: true
+nav_order: 4
 display_categories: [Current, Alumni]
 horizontal: false
 ---
