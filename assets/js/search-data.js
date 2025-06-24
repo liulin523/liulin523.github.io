@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-team",
+          title: "Team",
+          description: "Members of the research lab",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/team/";
+          },
         },{id: "dropdown-ice-sheets",
               title: "Ice sheets",
               description: "",
@@ -108,7 +115,12 @@ ninja.data = [{
           section: "News",},{id: "news-the-modernized-group-website-is-now-live-sparkles-smile",
           title: 'The modernized group website is now live! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-thaw-slumps",
+          section: "News",},{id: "people-eric-p-xing",
+          title: 'Eric P. Xing',
+          description: "Professor",
+          section: "People",handler: () => {
+              window.location.href = "/people/xing_eric/";
+            },},{id: "projects-thaw-slumps",
           title: 'Thaw slumps',
           description: "with background image",
           section: "Projects",handler: () => {
