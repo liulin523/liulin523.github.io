@@ -156,8 +156,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-eric-p-xing",
-          title: 'Eric P. Xing',
+            },},{id: "projects-lin-liu",
+          title: 'Lin Liu',
           description: "Associate Professor and Group Leader",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xing_eric/";
