@@ -158,11 +158,11 @@ ninja.data = [{
           description: "Associate Professor and Group Leader",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liu_lin/";
-            },},{id: "projects-eric-p-xing",
-          title: 'Eric P. Xing',
-          description: "Professor",
+            },},{id: "projects-xiaowen-wang",
+          title: 'Xiaowen Wang',
+          description: "Research Assistant (2015-16), now Associate Professor at Southwest Jiaotong University",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/xing_eric/";
+              window.location.href = "/projects/wang_xiaowen/";
             },},{
         id: 'social-email',
         title: 'email',
