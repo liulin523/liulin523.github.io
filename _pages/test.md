@@ -2,6 +2,7 @@
 layout: page
 title: Test
 description: "Test"
+permalink: /test/
 nav: true
 nav_order: 4
 display_categories: [Current, Alumni]
