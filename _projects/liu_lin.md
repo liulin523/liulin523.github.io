@@ -3,7 +3,7 @@ layout: page
 title: Lin Liu
 description:  |
   Associate Professor and Group Leader<br>
-  <a href="https://cryocuhk.github.io/assets/cv_linliu.pdf">CV</a>
+  <a href="{{ '/assets/pdf/cv_linliu.pdf' | relative_url }}">Curriculum Vitae</a>
 img: assets/img/people/lin.jpg
 importance: 0
 category: Current
