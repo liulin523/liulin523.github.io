@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Test",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/test/";
+            window.location.href = "/test/";
           },
         },{id: "dropdown-ice-sheets",
               title: "Ice sheets",
