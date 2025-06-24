@@ -153,14 +153,14 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-guoyan-jiang-江国焰",
-          title: 'Guoyan Jiang 江国焰',
+            },},{id: "projects-guoyan-jiang",
+          title: 'Guoyan Jiang',
           description: "Postdoc (2017-19, jointly supervised with Teng-fong Wong), now Professor at Wuhan University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jiang_guoyan/";
             },},{id: "projects-lin-liu",
           title: 'Lin Liu',
-          description: "Associate Professor and Group Leader",
+          description: "Associate Professor and Group LeaderCV",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liu_lin/";
             },},{id: "projects-xiaowen-wang",
