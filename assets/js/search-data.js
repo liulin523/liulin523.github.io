@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "dropdown-ice-sheets",
-              title: "Ice sheets",
+        },{id: "dropdown-glaciers-amp-ice-sheets",
+              title: "Glaciers &amp; Ice Sheets",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/research_icesheet/";
+                window.location.href = "/research_glaciers_icesheets/";
               },
             },{id: "dropdown-permafrost",
               title: "Permafrost",
