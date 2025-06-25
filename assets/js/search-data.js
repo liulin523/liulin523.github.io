@@ -94,7 +94,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-review-article-synthesizing-the-scientific-knowledge-on-rock-glacier-veolocity-was-published-in-review-of-geophysics-congratulations-to-yan",
+      },{id: "news-a-review-article-synthesizing-the-scientific-knowledge-on-rock-glacier-veolocity-was-published-in-review-of-geophysics",
           title: 'A review article synthesizing the scientific knowledge on rock glacier veolocity was published...',
           description: "",
           section: "News",},{id: "news-our-new-paper-published-in-isprs-journal-of-photogrammetry-and-remote-sensing-systematically-assesses-time-series-models-for-insar-permafrost-studies-and-proposes-a-novel-strategy-for-selecting-reference-points-congratulations-to-chengyan",
@@ -109,8 +109,8 @@ ninja.data = [{
           section: "News",},{id: "news-joe-passed-his-phd-thesis-defense-congratulations-to-dr-sun",
           title: 'Joe passed his PhD thesis defense! Congratulations to Dr. Sun 🎉👨🏻‍🎓!',
           description: "",
-          section: "News",},{id: "news-carol-s-paper-on-supra-glacial-lakes-was-published-in-global-and-planetary-change-congratulations",
-          title: 'Carol’s paper on supra-glacial lakes was published in Global and Planetary Change! Congratulations!...',
+          section: "News",},{id: "news-carol-s-paper-on-supra-glacial-lakes-was-published-in-global-and-planetary-change",
+          title: 'Carol’s paper on supra-glacial lakes was published in  Global and Planetary Change!',
           description: "",
           section: "News",},{id: "news-the-modernized-group-website-is-now-live-sparkles-smile",
           title: 'The modernized group website is now live! :sparkles: :smile:',
