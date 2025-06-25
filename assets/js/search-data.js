@@ -99,7 +99,19 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-joe-passed-his-phd-thesis-defense-congratulations-to-dr-sun",
+            },},{id: "news-a-review-article-synthesizing-the-scientific-knowledge-on-rock-glacier-veolocity-was-published-in-review-of-geophysics-congratulations-to-yan",
+          title: 'A review article synthesizing the scientific knowledge on rock glacier veolocity was published...',
+          description: "",
+          section: "News",},{id: "news-our-new-paper-published-in-isprs-journal-of-photogrammetry-and-remote-sensing-systematically-assesses-time-series-models-for-insar-permafrost-studies-and-proposes-a-novel-strategy-for-selecting-reference-points-congratulations-to-chengyan",
+          title: 'Our new paper published in ISPRS Journal of Photogrammetry and Remote Sensing systematically...',
+          description: "",
+          section: "News",},{id: "news-cuhk-in-focus-features-an-article-on-our-recent-antarctic-expedition",
+          title: 'CUHK In Focus features  an article on our recent Antarctic expedition.',
+          description: "",
+          section: "News",},{id: "news-summer-passed-her-phd-thesis-defense-congratulations-to-dr-xia",
+          title: 'Summer passed her PhD thesis defense! Congratulations to Dr. Xia 🎉',
+          description: "",
+          section: "News",},{id: "news-joe-passed-his-phd-thesis-defense-congratulations-to-dr-sun",
           title: 'Joe passed his PhD thesis defense! Congratulations to Dr. Sun 🎉👨🏻‍🎓!',
           description: "",
           section: "News",},{id: "news-carol-s-paper-on-supra-glacial-lakes-was-published-in-global-and-planetary-change-congratulations",
@@ -183,8 +195,8 @@ ninja.data = [{
           description: "Research Assistant (2015-16) now Associate Professor at Southwest Jiaotong University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wang_xiaowen/";
-            },},{id: "projects-zhuoxuan-xia-summer",
-          title: 'Zhuoxuan Xia (Summer)',
+            },},{id: "projects-zhuoxuan-summer-xia",
+          title: 'Zhuoxuan (Summer) Xia',
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xia_zhuoxuan/";
