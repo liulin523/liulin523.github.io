@@ -4,7 +4,7 @@ title: Planetary Geomorphology
 description: with background image
 img: assets/img/4.jpg
 importance: 1
-category: Current
+category: project
 related_publications: true
 ---
 

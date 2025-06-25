@@ -4,7 +4,7 @@ title: Glacial lakes
 description: an other project with a background image and giscus comments
 img: assets/img/9.jpg
 importance: 2
-category: Current
+category: project
 giscus_comments: true
 ---
 
