@@ -170,6 +170,11 @@ ninja.data = [{
           description: "PhD and HKPFS recipient (2017-21)  now Postdoc at University of Fribourg",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hu_yan/";
+            },},{id: "projects-yufeng-hu",
+          title: 'Yufeng Hu',
+          description: "Research Assistant (2017-18)  now Associate Professor at Chang&#39;an University",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hu_yufeng/";
             },},{id: "projects-lingcao-huang",
           title: 'Lingcao Huang',
           description: "PhD student(2016-19) now Research Assistant Professor at The Chinese University of Hong Kong",
@@ -195,11 +200,16 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sun_zhangyu/";
-            },},{id: "projects-visiting-students-2018-2023",
-          title: 'Visiting students (2018-2023)',
-          description: "Mingkai Chen  Linyang Xin",
+            },},{id: "projects-visiting-students-2016-17",
+          title: 'Visiting Students (2016-17)',
+          description: "Zhenming Wu  Jiahui Wang  Yongxin Liu   Wanwan Shao",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/visiting_students/";
+              window.location.href = "/projects/visiting_students_2016/";
+            },},{id: "projects-visiting-students-2018-23",
+          title: 'Visiting Students (2018-23)',
+          description: "Mingkai Chen  Linyang Xin  Yidan Ding   Haoran Wang  Weifan Zhou",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/visiting_students_2018/";
             },},{id: "projects-xiaowen-wang",
           title: 'Xiaowen Wang',
           description: "Research Assistant (2015-16) now Associate Professor at Southwest Jiaotong University",
