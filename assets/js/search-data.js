@@ -99,8 +99,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-joe-passed-his-phd-thesis-defense-congratulations-to-dr-sun-clapping-hands-smile",
-          title: 'Joe passed his PhD thesis defense! Congratulations to Dr. Sun! :clapping-hands: :smile:',
+            },},{id: "news-joe-passed-his-phd-thesis-defense-congratulations-to-dr-sun",
+          title: 'Joe passed his PhD thesis defense! Congratulations to Dr. Sun 🎉👨🏻‍🎓!',
           description: "",
           section: "News",},{id: "news-carol-s-paper-on-supra-glacial-lakes-was-published-in-global-and-planetary-change-congratulations",
           title: 'Carol’s paper on supra-glacial lakes was published in Global and Planetary Change! Congratulations!...',
