@@ -2,13 +2,14 @@
 layout: page
 title: "Research on Glaciers and Ice Sheets"
 permalink: /research_glaciers_icesheets/
+related_publications: true
 ---
 
 ## Terminus variations of Greenland glaciers
 
 Enze Zhang, PhD Thesis Project
 
-Enze’s research focuses on terminus variations of glaciers in Greenland, quantifying such variations in a high temporal resolution and understanding their controlling factors. Based on deep learning, he develops a method to extract the calving front automatically using multi-sensor remote sensing imagery (TerraSAR-X, Sentinel-1, Landsat). He also analyzes the controlling factors of the calving front variations by combining other data such as glacier velocity and bed elevation. His work has been published in several papers ({% cite Zhang_2021%}). 
+Enze’s research focuses on terminus variations of glaciers in Greenland, quantifying such variations in a high temporal resolution and understanding their controlling factors. Based on deep learning, he develops a method to extract the calving front automatically using multi-sensor remote sensing imagery (TerraSAR-X, Sentinel-1, Landsat). He also analyzes the controlling factors of the calving front variations by combining other data such as glacier velocity and bed elevation. His work has been published in several papers {% cite Zhang_2021 Zhang_2019JI%}. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
