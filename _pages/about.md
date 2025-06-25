@@ -20,7 +20,7 @@ announcements:
 
 ---
 
-Our research group investigates the cryosphere—the Earth's surface where water exists in frozen form.
-We integrates a diverse suite of methods, including geophysics, geodesy, remote sensing, and deep learning, to explore the dynamics of cryospheric systems. By adopting cutting-edge tools, developing novel algorithms, and generating new observations, we seek to better understand cryospheric processes, assess the impacts of a warming climate, and quantify the cryosphere’s interactions with the atmosphere, biosphere, ocean, and solid Earth.
+Our research group investigates the cryosphere—the Earth's surface where water is frozen.
+We integrates a wide range of tools, from satellite imagery and ground measurements to artificial intelligence, to better understand how these frozen regions behave and change over time. By adopting cutting-edge tools, developing novel algorithms, and generating new observations, we aim to uncover how the cryosphere is responding to climate change and how these changes affect the rest of the Earth system—including the air, oceans, land, and life.
 
 **We are recruiting new PhD students** [(see opportunities)](/opportunities/)**!** 
