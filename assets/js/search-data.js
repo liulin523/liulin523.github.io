@@ -173,6 +173,11 @@ ninja.data = [{
           description: "Postdoc (2018) now Associate Professor at Southern University of Science and Technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ran_jiangjun/";
+            },},{id: "projects-zhangyu-joe-sun",
+          title: 'Zhangyu (Joe) Sun',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sun_zhangyu/";
             },},{id: "projects-xiaowen-wang",
           title: 'Xiaowen Wang',
           description: "Research Assistant (2015-16) now Associate Professor at Southwest Jiaotong University",
