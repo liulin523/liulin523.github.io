@@ -7,3 +7,6 @@ img: assets/img/people/ZhuoxuanXIA.jpg
 importance: 0
 category: Current
 ---
+Feel free to add any discription about yourself. See 1_project.md for a detailed example
+
+even citations {% cite Xia_2022, xia2024, Chen_2024, Maier_2025 %} from papers.bib
