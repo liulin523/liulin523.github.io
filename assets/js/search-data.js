@@ -94,12 +94,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-review-article-synthesizing-the-scientific-knowledge-on-rock-glacier-veolocity-was-published-in-review-of-geophysics-congratulations-to-yan",
+      },{id: "news-a-review-article-synthesizing-the-scientific-knowledge-on-rock-glacier-veolocity-was-published-in-review-of-geophysics-congratulations-to-yan",
           title: 'A review article synthesizing the scientific knowledge on rock glacier veolocity was published...',
           description: "",
           section: "News",},{id: "news-our-new-paper-published-in-isprs-journal-of-photogrammetry-and-remote-sensing-systematically-assesses-time-series-models-for-insar-permafrost-studies-and-proposes-a-novel-strategy-for-selecting-reference-points-congratulations-to-chengyan",
@@ -170,6 +165,16 @@ ninja.data = [{
           description: "Postdoc (2015) now Professor at Guangdong University of Technology",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hu_bo/";
+            },},{id: "projects-yan-hu",
+          title: 'Yan Hu',
+          description: "PhD and HKPFS recipient (2017-21)  now Postdoc at University of Fribourg",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hu_yan/";
+            },},{id: "projects-lingcao-huang",
+          title: 'Lingcao Huang',
+          description: "PhD student(2016-19) now Research Assistant Professor at The Chinese University of Hong Kong",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/huang_lingcao/";
             },},{id: "projects-guoyan-jiang",
           title: 'Guoyan Jiang',
           description: "Postdoc (2017-19, jointly supervised with Teng-fong Wong) now Professor at Wuhan University",
@@ -190,6 +195,11 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sun_zhangyu/";
+            },},{id: "projects-visiting-students-2018-2023",
+          title: 'Visiting students (2018-2023)',
+          description: "Mingkai Chen  Linyang Xin",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/visiting_students/";
             },},{id: "projects-xiaowen-wang",
           title: 'Xiaowen Wang',
           description: "Research Assistant (2015-16) now Associate Professor at Southwest Jiaotong University",
@@ -205,6 +215,11 @@ ninja.data = [{
           description: "Postdoc (2017-18) now Associate Professor at Wuhan University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zhang_bao/";
+            },},{id: "projects-jiahua-zhang",
+          title: 'Jiahua Zhang',
+          description: "PhD (2017-21)  now Project Scientist at University Corporation for Atmospheric Research (UCAR)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhang_jiahua/";
             },},{id: "projects-zhuoyi-joey-zhao",
           title: 'Zhuoyi (Joey) Zhao',
           description: "Postdoc (2022-24) now Postdoc at University of Colorado Boulder",
