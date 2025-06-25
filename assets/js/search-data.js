@@ -153,6 +153,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-bo-hu",
+          title: 'Bo Hu',
+          description: "Postdoc (2015) now Professor at Guangdong University of Technology",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hu_bo/";
             },},{id: "projects-guoyan-jiang",
           title: 'Guoyan Jiang',
           description: "Postdoc (2017-19, jointly supervised with Teng-fong Wong) now Professor at Wuhan University",
@@ -163,6 +168,11 @@ ninja.data = [{
           description: "Associate Professor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liu_lin/";
+            },},{id: "projects-jiangjun-ran",
+          title: 'Jiangjun Ran',
+          description: "Postdoc (2018) now Associate Professor at Southern University of Science and Technology",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ran_jiangjun/";
             },},{id: "projects-xiaowen-wang",
           title: 'Xiaowen Wang',
           description: "Research Assistant (2015-16) now Associate Professor at Southwest Jiaotong University",
@@ -173,6 +183,26 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xia_zhuoxuan/";
+            },},{id: "projects-bao-zhang",
+          title: 'Bao Zhang',
+          description: "Postdoc (2017-18) now Associate Professor at Wuhan University",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhang_bao/";
+            },},{id: "projects-zhuoyi-joey-zhao",
+          title: 'Zhuoyi (Joey) Zhao',
+          description: "Postdoc (2022-24) now Postdoc at University of Colorado Boulder",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhao_zhuoyi/";
+            },},{id: "projects-zhiwei-zhou",
+          title: 'Zhiwei Zhou',
+          description: "Postdoc (2017-18) now Associate Researcher at Innovation Academy for Precision Measurement Science and Technology, Chinese Academy of Sciences",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhou_zhiwei/";
+            },},{id: "projects-xiaofan-zhu",
+          title: 'Xiaofan Zhu',
+          description: "Postdoc (2022) now Associate Researcher at Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhu_xiaofan/";
             },},{
         id: 'social-email',
         title: 'email',
