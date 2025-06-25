@@ -104,7 +104,7 @@ ninja.data = [{
           title: 'CUHK In Focus features  an article on our recent Antarctic expedition.',
           description: "",
           section: "News",},{id: "news-summer-passed-her-phd-thesis-defense-congratulations-to-dr-xia",
-          title: 'Summer passed her PhD thesis defense! Congratulations to Dr. Xia 🎉',
+          title: 'Summer passed her PhD thesis defense! Congratulations to Dr. Xia 🎉👩🏻‍🎓!',
           description: "",
           section: "News",},{id: "news-joe-passed-his-phd-thesis-defense-congratulations-to-dr-sun",
           title: 'Joe passed his PhD thesis defense! Congratulations to Dr. Sun 🎉👨🏻‍🎓!',
