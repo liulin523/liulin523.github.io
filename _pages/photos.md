@@ -2,7 +2,7 @@
 layout: page
 title: Photos
 permalink: /photos/
-description: Field photos
+description: Gallary of field photos
 nav: true
 nav_order: 7
 ---
