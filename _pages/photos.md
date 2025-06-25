@@ -14,7 +14,7 @@ images:
 ---
 ## test using Venobox
 
-<a class="venobox" data-gall="myGallery" href="assets/img/field/Jiahua1.jpg"><img src="assets/img/field/Jiahua1.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/Jiahua1.jpg"><img src="/assets/img/field/Jiahua1.jpg" /></a>
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
 
