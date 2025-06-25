@@ -94,16 +94,16 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+      },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-our-website-adopts-a-new-style-sparkles-smile",
           title: 'Our website adopts a new style! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-carol-s-paper-on-supra-glacial-lakes-was-published-in-global-and-planetary-change-congratulations",
+          title: 'Carol’s paper on supra-glacial lakes was published in Global and Planetary Change! Congratulations!...',
           description: "",
           section: "News",},{id: "news-the-modernized-group-website-is-now-live-sparkles-smile",
           title: 'The modernized group website is now live! :sparkles: :smile:',
