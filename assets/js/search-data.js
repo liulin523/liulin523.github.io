@@ -160,6 +160,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-jie-chen",
+          title: 'Jie Chen',
+          description: "PhD (2015-19, co-supervised with Hui Lin)  now Postdoc at University of Alaska Fairbanks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chen_jie/";
+            },},{id: "projects-xiyu-chen",
+          title: 'Xiyu Chen',
+          description: "PhD (2015-21)  now at Chongqing Forestry Research Institute",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/chen_xiyu/";
             },},{id: "projects-chengyan-fancy-fan",
           title: 'Chengyan (Fancy) Fan',
           description: "Research Assistant (2023-24)",
@@ -170,6 +180,11 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/he_jianlong/";
+            },},{id: "projects-kenneth-ho-ngai-lun",
+          title: 'Kenneth Ho Ngai Lun',
+          description: "Research Assistant (2017-18)   now  Master Student at University of Southampton",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ho_kenneth/";
             },},{id: "projects-bo-hu",
           title: 'Bo Hu',
           description: "Postdoc (2015) now Professor at Guangdong University of Technology",
@@ -220,6 +235,11 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sun_zhangyu/";
+            },},{id: "projects-billy-ho-ming-tsang",
+          title: 'Billy Ho Ming Tsang',
+          description: "MPhil 2022-24   now  PhD student at University of Hong Kong",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tsang_billy/";
             },},{id: "projects-visiting-students-2016-17",
           title: 'Visiting Students (2016-17)',
           description: "Zhenming Wu  Jiahui Wang  Yongxin Liu   Wanwan Shao",
@@ -240,6 +260,11 @@ ninja.data = [{
           description: "PhD student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xia_zhuoxuan/";
+            },},{id: "projects-xingyu-carol-xu",
+          title: 'Xingyu (Carol) Xu',
+          description: "PhD (2019-23)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xu_xingyu/";
             },},{id: "projects-bao-zhang",
           title: 'Bao Zhang',
           description: "Postdoc (2017-18) now Associate Professor at Wuhan University",
