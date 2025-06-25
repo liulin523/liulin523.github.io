@@ -11,4 +11,4 @@ related_publications: true
 ---
 Feel free to add any discription about yourself. See _projects/1_project.md for a detailed example
 
-even citations {% cite xia2024, Chen_2024, Maier_2025 %} from papers.bib
+even citations {% cite xia2024%}, {% cite Chen_2024%} from papers.bib

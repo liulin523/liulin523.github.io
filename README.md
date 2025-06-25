@@ -54,7 +54,7 @@ A good size for team member pictures on this site is 311 pixels wide, in jpeg or
 png format. Name your picture file something descriptive that won't be mistaken 
 for any other image on the site (like `team_your-name.jpg` -- underscores to 
 separate kinds of info and hyphens to break up words). Navigate to 
-[/assets/img/](https://github.com/decisionlabucsf/decisionlabucsf.github.io/tree/master/assets/img) 
+[/assets/img/](https://github.com/cryocuhk/cryocuhk.github.io/tree/master/assets/img) 
 and drag-and-drop the picture file from your desktop into the browser window. 
 You'll then be asked to make a "commit":
 
@@ -65,7 +65,7 @@ more informative description like "upload `YOUR FILENAME` for members.yml" and
 click the green button to commit the file directly to the master branch.
 
 ### 2. Edit the team member data in the YAML file /_data/members.yml
-Navigate to [/_data/members.yml](https://github.com/decisionlabucsf/decisionlabucsf.github.io/blob/master/_data/members.yml) 
+Navigate to [/_data/members.yml](https://github.com/cryocuhk/cryocuhk.github.io/blob/master/_data/members.yml) 
 and click the pencil for "Edit this file":
 
 ![Screenshot-edit-members](assets/img/site_readme-01-edit-data-members.png)
@@ -123,24 +123,21 @@ If this is a quantitative paper, try to find the most interesting or revealing
 figure from the paper. Click on the article link to bring up that individual 
 article's PubMed abstract, and follow the Full Text Links (such as UC-eLinks) to 
 the paper. IF you see a good image, download it and save it to your computer in 
-PNG or JPEG format with a short descriptive name like 
-"`pubs_YEAR_article-keywords.png`". (Even better: use Photoshop or other editing 
+JPEG format with a short descriptive name like 
+"`pubs_xia_grl2024.jpg`". (Even better: use Photoshop or other editing 
 software to resize to a width of 185 pixels.)
 
 If it's a qualitative or ethics paper that doesn't have useful figures, see if 
-you can find a freely-usable image that fits with the theme. Two sources here 
-are [unsplash.com](https://unsplash.com) and Google Images--if you're using the 
-latter, click on "Tools" and select "Usage Rights -> Creative Commons licenses 
-for freely-usable images. 
+you can find a freely-usable image (e.g., [unsplash.com](https://unsplash.com))that fits with the theme. T
 
 Use the methods described above in *(1. If you don't have one yet, add a 
 picture to /assets/img/)* to upload the publication image to 
-[/assets/img/](https://github.com/decisionlabucsf/decisionlabucsf.github.io/tree/master/assets/img). 
+[/assets/img/](https://github.com/cryocuhk/cryocuhk.github.io/tree/master/assets/img). 
 
 ### 3. Edit the publication data in /_data/publications.yml
 Use the same methods described above *(2. Edit the team member data in the YAML 
 file /_data/members.yml)* to edit 
-[publications.yml](https://github.com/decisionlabucsf/decisionlabucsf.github.io/blob/master/_data/publications.yml). 
+[publications.yml](https://github.com/cryocuhk/cryocuhk.github.io/blob/master/_data/publications.yml). 
 This list contains publications in reverse chronological order, try to put the 
 new article in the right place. Use the Vancouver-formatted text file that you 
 downloaded to your computer to fill out these data entries, roughly matching the 
@@ -181,7 +178,7 @@ necessary. Also under `details: `, spell out the actual journal title but leave
 out "The" at the beginning of journal 
 titles, e.g. "~~The~~ Journal of XYZ." After `image: `, enter the name of the 
 publication image you uploaded to 
-[/assets/img/](https://github.com/decisionlabucsf/decisionlabucsf.github.io/tree/master/assets/img) 
+[/assets/img/](https://github.com/cryocuhk/cryocuhk.github.io/tree/master/assets/img) 
 in the previous step. Relatedly, `imagealt: ` is for a brief description of the 
 image to be used by screen readers to make the page more accessible to visually 
 impaired people (and other people who use screen readers). If the image is a 
@@ -192,55 +189,15 @@ itself. And `imagecredit: ` is for giving credit to people when we've uploaded
 a freely-usable image we've gotten online, e.g. 
 `imagecredit: photo by Ramiro Pianorosa on Unsplash`.
 
-Add the "pmid" (the PMID or PubMed ID number, usually 9 
-digits), the "pmcid" (the PMCID or PubMed Central ID number, usually the letters 
-"PMC" followed by a string of numerals) and the DOI number from the PubMed 
-abstract for the article. 
 
 **Commit changes** when you're done, using the green button to commit the file 
 directly to the master branch and the description box below to leave a brief 
 description. 
 
-### 4. More options: self-hosting files, preprints, open science
-In the entry above, there were several options after `doi: ` that were not all 
-filled in. `openaccess: ` is for articles that are Gold OA--that is, for which 
-anyone can read the formatted article on the website. `contentshare: ` is a bit 
-similar, in which authors have a link that provides access that they can share 
-with others. If the article is either of those, enter the URL where the paper 
-can be found. 
-
-In some cases, if a paper is not Gold OA or we don't have a Content Sharing 
-link, we will want to host PDFs of our papers 
-so that people who don't 
-have journal subscriptions can read them. Each journal has different policies 
-about whether they allow this for articles published in their journal - you 
-should check the journal's website (there's a general database on this called 
-[Sherpa Romeo](http://sherpa.ac.uk/romeo/index.php) that's also worth 
-consulting.) We are interested in journals that permit archiving of what Romeo 
-calls either the "Published Version" and we call the "pdf - published version" 
-(including all the typesetting and formatting of the journal) or the "Accepted 
-Version" and we call the "pdf - author manuscript version (peer-reviewed & 
-edited)" (final text including changes from peer review, but without the fancy 
-journal formatting). We don't want to host what they call the "Submitted 
-Version" (also called "pre-print" or "original version"), which 
-is the version of papers prior to peer review. 
-
-If we are self-hosting a paper on our website, rename the document file as 
-"`AUTHORS` - `TITLE`.pdf" and place it in 
-[/assets/papers/](https://github.com/decisionlabucsf/decisionlabucsf.github.io/tree/master/assets/papers). 
-Then in the entry for `file: ` enter the document name, and in the entry for 
-`filetype: ` indicate whether this is a "pdf - published version" or a "pdf -
- author manuscript version (peer-reviewed & edited)."
-
-Finally, `biorxiv: ` and `psyarxiv: ` are options for papers in which we've 
-posted a preprint prior to publication; `preregistered: ` allows us to link to 
-preregistrations for a paper, and `opendata: ` and `openmaterials: ` allow us to 
-link to repositories where readers can download our data and materials (e.g., if 
-they're interested in reproducing our analyses or our experiments).
 
 ## How to add news items
 For this you will create a Markdown file containing the news item. Navigate to 
-[/_news/](https://github.com/decisionlabucsf/decisionlabucsf.github.io/tree/master/_news) 
+[/_news/](https://github.com/cryocuhk/cryocuhk.github.io/tree/master/_news) 
 and click **Create new file**. 
 
 ![Screenshot-post-edit](assets/img/site_readme-05-create-post.png)
@@ -258,9 +215,9 @@ group: news
 ```
 For `title: `, enter the post title as you want it to appear on the News page. 
 For `author: `, enter your own name as it is spelled in 
-[/_data/members.yml](https://github.com/decisionlabucsf/decisionlabucsf.github.io/blob/master/_data/members.yml). 
+[/_data/members.yml](https://github.com/cryocuhk/cryocuhk.github.io/blob/master/_data/members.yml). 
 If you would like to include an image, upload a JPEG or PNG file to 
-[/assets/img/](https://github.com/decisionlabucsf/decisionlabucsf.github.io/tree/master/assets/img) 
+[/assets/img/](https://github.com/cryocuhk/cryocuhk.github.io/tree/master/assets/img) 
 (ideally, with a width of 490 pixels) and include a tag in your post using the 
 format:
 ```
@@ -268,7 +225,7 @@ format:
 ```
 where for `ALT-TITLE` you put in a brief description and for `FILENAME` you 
 enter the filename of the image you uploaded to 
-[/assets/img/](https://github.com/decisionlabucsf/decisionlabucsf.github.io/tree/master/assets/img). 
+[/assets/img/](https://github.com/cryocuhk/cryocuhk.github.io/tree/master/assets/img). 
 (I suggest naming it something like "news_YEAR_key-words.png".)
 
 When you're done, **commit changes**, using the green button to commit the file 
