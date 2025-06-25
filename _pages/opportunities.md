@@ -15,14 +15,13 @@ You are highly suggested to apply for the prestigious **Hong Kong PhD Fellowship
 
 Every July, we host a camp inviting all potential applicants to our campus. The first batch of PhD offers are made shortly after the summer camp. <!-- Application is now open with a deadline on May 5.  See futher detail from this [webpage](http://www.cuhk.edu.hk/sci/essc/sw2019.html).--> 
 
-## MPhil positions
-Contact us
-
 ## Postdoc positions
 <!-- We are currently looking for one postdoc to work on an interdiscplinary project on thermokarst lakes and thaw slumps. Contact me if you are interested in learning more! --> 
+[Hong Kong RGC Junior Research Fellow Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/) applications open every August.
+[Hong Kong Scholars Program](https://www.hkscholars.org/) 
 
-<!--- !We are currently looking for one postdoc through the [Hong Kong Scholars Program](https://www.hkscholars.org/). -->
-[Hong Kong RGC Junior Research Fellow Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/) application opens every August.
+## MPhil positions
+Contact us
 
 ## CUHK undergraduate students
 If you are an undergraduate student at CUHK looking for a research project, contact Lin by [email](mailto:liulin@cuhk.edu.hk) or stop by his office (MMW 315). 

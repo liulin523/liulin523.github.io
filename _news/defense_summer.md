@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Summer passed her PhD thesis defense! Congratulations to Dr. Xia 🎉 
+Summer passed her PhD thesis defense! Congratulations to Dr. Xia 🎉👩🏻‍🎓!
