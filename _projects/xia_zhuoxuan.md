@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zhuoxuan Xia (Summer)
+title: Zhuoxuan (Summer) Xia 
 description: PhD student <br> 
 Interests: Thermokarst landforms, Deep Learning 
 img: assets/img/people/ZhuoxuanXIA.jpg
