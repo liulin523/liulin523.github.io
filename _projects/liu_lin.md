@@ -10,9 +10,13 @@ Lin Liu is an Associate Professor of Earth and Environmental Sciences at The Chi
 
 See [CV](/assets/pdf/cv_linliu.pdf), [Google Scholar](https://scholar.google.com.hk/citations?user=5VBaQTIAAAAJ&hl=en), [department webpage](https://www.ees.cuhk.edu.hk/staff/prof-liu-lin) for details. 
 
-Contact: 
-Photo: +852-3943 9862
-Address: 315 Mong Man Wai Building, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong SAR
+Contact
+
 [Email](mailto:liulin@cuhk.edu.hk)
+
+Photo: +852-3943 9862
+
+Address: 315 Mong Man Wai Building, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong SAR
+
 
 
