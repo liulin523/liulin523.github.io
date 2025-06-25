@@ -160,6 +160,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-chengyan-fancy-fan",
+          title: 'Chengyan (Fancy) Fan',
+          description: "Research Assistant (2023-24)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fan_chengyan/";
             },},{id: "projects-jianlong-herbert-he",
           title: 'Jianlong (Herbert) He',
           description: "PhD student",
@@ -200,6 +205,11 @@ ninja.data = [{
           description: "Associate Professor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liu_lin/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ma_joseph/";
             },},{id: "projects-jiangjun-ran",
           title: 'Jiangjun Ran',
           description: "Postdoc (2018) now Associate Professor at Southern University of Science and Technology",
@@ -235,6 +245,11 @@ ninja.data = [{
           description: "Postdoc (2017-18) now Associate Professor at Wuhan University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zhang_bao/";
+            },},{id: "projects-enze-zhang",
+          title: 'Enze Zhang',
+          description: "PhD (2016-20)  now Postdoc at Hong Kong University of Science and Technology",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhang_enze/";
             },},{id: "projects-jiahua-zhang",
           title: 'Jiahua Zhang',
           description: "PhD (2017-21)  now Project Scientist at University Corporation for Atmospheric Research (UCAR)",
