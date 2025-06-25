@@ -165,9 +165,14 @@ ninja.data = [{
               window.location.href = "/projects/liu_lin/";
             },},{id: "projects-xiaowen-wang",
           title: 'Xiaowen Wang',
-          description: "Research Assistant (2015-16), now Associate Professor at Southwest Jiaotong University",
+          description: "Research Assistant (2015-16) now Associate Professor at Southwest Jiaotong University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/wang_xiaowen/";
+            },},{id: "projects-zhuoxuan-xia-summer",
+          title: 'Zhuoxuan Xia (Summer)',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xia_zhuoxuan/";
             },},{
         id: 'social-email',
         title: 'email',
