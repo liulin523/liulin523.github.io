@@ -67,7 +67,7 @@ ninja.data = [{
           },
         },{id: "nav-photos",
           title: "Photos",
-          description: "Field photos",
+          description: "Gallary of field photos",
           section: "Navigation",
           handler: () => {
             window.location.href = "/photos/";
@@ -160,6 +160,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-jianlong-herbert-he",
+          title: 'Jianlong (Herbert) He',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/he_jianlong/";
             },},{id: "projects-bo-hu",
           title: 'Bo Hu',
           description: "Postdoc (2015) now Professor at Guangdong University of Technology",
@@ -185,6 +190,11 @@ ninja.data = [{
           description: "Postdoc (2017-19, jointly supervised with Teng-fong Wong) now Professor at Wuhan University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jiang_guoyan/";
+            },},{id: "projects-mengze-li",
+          title: 'Mengze Li',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/li_mengze/";
             },},{id: "projects-lin-liu",
           title: 'Lin Liu',
           description: "Associate Professor",
@@ -230,6 +240,11 @@ ninja.data = [{
           description: "PhD (2017-21)  now Project Scientist at University Corporation for Atmospheric Research (UCAR)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zhang_jiahua/";
+            },},{id: "projects-wensong-bill-zhang",
+          title: 'Wensong (Bill) Zhang',
+          description: "PhD student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhang_wensong/";
             },},{id: "projects-zhuoyi-joey-zhao",
           title: 'Zhuoyi (Joey) Zhao',
           description: "Postdoc (2022-24) now Postdoc at University of Colorado Boulder",
