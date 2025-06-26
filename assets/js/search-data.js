@@ -257,7 +257,7 @@ ninja.data = [{
               window.location.href = "/projects/wang_xiaowen/";
             },},{id: "projects-zhuoxuan-summer-xia",
           title: 'Zhuoxuan (Summer) Xia',
-          description: "PhD student",
+          description: "PhD studentInterests: A, B, C",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xia_zhuoxuan/";
             },},{id: "projects-xingyu-carol-xu",
