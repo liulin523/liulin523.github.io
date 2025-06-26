@@ -220,9 +220,9 @@ ninja.data = [{
           description: "Associate Professor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liu_lin/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-joseph-ma-ho-yin",
+          title: 'Joseph Ma Ho Yin',
+          description: "MPhil 2014-16   later PhD at National University of Singapore  now Principal Scientist at Halliburton",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ma_joseph/";
             },},{id: "projects-jiangjun-ran",
@@ -262,7 +262,7 @@ ninja.data = [{
               window.location.href = "/projects/xia_zhuoxuan/";
             },},{id: "projects-xingyu-carol-xu",
           title: 'Xingyu (Carol) Xu',
-          description: "PhD (2019-23)",
+          description: "PhD (2019-23) and HKPFS Recipient",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xu_xingyu/";
             },},{id: "projects-bao-zhang",
