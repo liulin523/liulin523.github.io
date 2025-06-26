@@ -12,10 +12,11 @@ images:
   venobox: true
   slider: true
 ---
-## test using Venobox
-
+## Snow monitoring site in Qilian Mountain, Qinghai, 2018
+By Jiahua Zhang
 <a class="venobox" data-gall="myGallery" href="/assets/img/field/Jiahua1.jpg"><img src="/assets/img/field/Jiahua1_thumbnail.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/Jiahua2.jpg"><img src="/assets/img/field/Jiahua2_thumbnail.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/Jiahua3.jpg"><img src="/assets/img/field/Jiahua3_thumbnail.jpg" /></a>
 <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" /></a>
 
 ## Image Slider
