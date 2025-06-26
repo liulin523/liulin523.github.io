@@ -24,7 +24,7 @@ By Yan Hu
 
 <a class="venobox" data-gall="myGallery" href="/assets/img/field/yan_alps1.jpg"><img src="/assets/img/field/yan_alps1_thumbnail.jpg" /></a>
 <a class="venobox" data-gall="myGallery" href="/assets/img/field/yan_alps2.jpg"><img src="/assets/img/field/yan_alps2_thumbnail.jpg" /></a>
-<a class="venobox" data-gall="myGallery" href="/assets/img/field/yan_alps3.jpg"><img src="/assets/img/field/Jyan_alps3_thumbnail.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/yan_alps3.jpg"><img src="/assets/img/field/yan_alps3_thumbnail.jpg" /></a>
 
 <p> &nbsp; </p>
 
