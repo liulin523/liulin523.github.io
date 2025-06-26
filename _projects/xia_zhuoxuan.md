@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Zhuoxuan (Summer) Xia 
-description: |
-  PhD student
-  Interests: A, B, C
+description: PhD student <br> Interests: A, B, C
 img: assets/img/people/ZhuoxuanXIA.jpg
 importance: 0
 category: Current
