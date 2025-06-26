@@ -6,7 +6,7 @@ permalink: /people/
 nav: true
 nav_order: 2
 display_categories: [Group Leader, Current, Alumni]
-horizontal: yes
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
