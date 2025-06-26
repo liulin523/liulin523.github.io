@@ -30,6 +30,13 @@ By Yan Hu
 
 ## Field Photos on the Tibetan Plateau, 2017-2018
 By Lingcao Huang
+
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/lingcao_thaw_slump2_beiluhe.jpg"><img src="/assets/img/field/lingcao_thaw_slump2_beiluhe_thumbnail.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/lingcao_thaw_slump1_beiluhe.jpg"><img src="/assets/img/field/lingcao_thaw_slump1_beiluhe_thumbnail.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/lingcao_thermal_erosion_gully_eboling.jpg"><img src="/assets/img/field/lingcao_thermal_erosion_gully_eboling_thumbnail.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/lingcao_sinkhole_eobling.jpg"><img src="/assets/img/field/lingcao_sinkhole_eobling_thumbnail.jpg" /></a>
+<a class="venobox" data-gall="myGallery" href="/assets/img/field/lingcao_Hummocks2_maxianshan.jpg"><img src="/assets/img/field/lingcao_Hummocks2_maxianshan_thumbnail.jpg" /></a>
+
 <div id="carouselTibet" class="carousel slide" data-ride="carousel" data-interval="5000">
   <ol class="carousel-indicators">
     <li data-target="#carouselTibet" data-slide-to="0" class="active"></li>
